@@ -36,6 +36,7 @@ p {
 
 a {
   text-decoration: none;
+  
 }
 a:hover {
   text-decoration: underline;
@@ -191,7 +192,7 @@ button:active {
 }
 
 .header__img--wrapper {
-  padding: 20px;
+  padding-bottom: 240px;
   z-index: 2;
 }
 
@@ -362,6 +363,7 @@ footer {
 }
 .footer__link {
   padding: 8px;
+  
 }
 
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
